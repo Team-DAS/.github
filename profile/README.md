@@ -23,7 +23,7 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 
 | Librería | Descripción |
 |----------|-------------|
-| UI | Próximamente... |
+| UI [Figma](https://www.figma.com/design/6m3CSKDoyHiY4cnmpgWg0m/UdeAJobs?node-id=4102-115205&t=GRYSz1yYmvUbi31t-1) | Diseños del Frontend del caso práctico |
 
 ---
 
@@ -35,4 +35,5 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 | ⚗️ Sandbox | Entorno de pruebas para nuevos módulos o ideas. |
 
 ---
+
 
