@@ -31,7 +31,8 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 
 | Otro | Descripción |
 |------|-------------|
-| 🗂️ [Docs](#) | Documentación técnica del sistema y de la arquitectura de células. |
+| 🗂️ [Docs](https://github.com/Team-DAS/C4-Architecture) | Documentación técnica del sistema y de la arquitectura de células. |
 | ⚗️ Sandbox | Entorno de pruebas para nuevos módulos o ideas. |
 
 ---
+
