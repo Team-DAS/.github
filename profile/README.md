@@ -8,22 +8,112 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 
 ## Projects
 
-| Proyecto | Descripción |
-|----------|-------------|
-| 🌐 [Frontend](https://github.com/Team-DAS/Frontend) | Aplicación web para candidatos y empleadores. |
-| 🔐 [Identity Service](#) | Registro, login, verificación, gestión de contraseñas y autenticación. |
-| 👤 [Profiles Service](#) | Información de perfiles de candidatos y empleadores, CVs, skills y enlaces. |
-| 📋 [Jobs Service](https://github.com/Team-DAS/Jobs-service) | Creación, gestión y búsqueda de ofertas de trabajo. |
-| 📨 [Applications Service](#) | Envío y gestión de aplicaciones de candidatos a trabajos. |
-| 🧰 [API Gateway](#) | Enrutamiento de tráfico externo a los servicios dentro de cada célula. |
-
----
-
-## Libraries
-
-| Librería | Descripción |
-|----------|-------------|
-| UI [Figma](https://www.figma.com/design/6m3CSKDoyHiY4cnmpgWg0m/UdeAJobs?node-id=4102-115205&t=GRYSz1yYmvUbi31t-1) | Diseños del Frontend del caso práctico |
+<table>
+  <thead>
+    <tr>
+      <td>🌐 <a href="https://github.com/Team-DAS/Frontend">Frontend</a></td>
+      <td>Aplicación web para candidatos y empleadores.</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center"><b>Profile Management Cell</b></td>
+    </tr>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">File Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Profile Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Dashboard Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>🧰 <a href="#">API Gateway</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><b>Projects Market Cell</b></td>
+    </tr>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Categorization Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Projects Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Searching Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>🧰 <a href="#">API Gateway</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><b>Access and Identity Cell</b></td>
+    </tr>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Account Management Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Authentication Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Authorization Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>🧰 <a href="#">API Gateway</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><b>Life Cycle Cell</b></td>
+    </tr>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Application Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Notification Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>📋 <a href="#">Communication Service</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>🧰 <a href="#">API Gateway</a></td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>🧰 <a href="#">Cell Router</a></td>
+      <td>Enrutamiento de tráfico externo hacia los microservicios de cada célula.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -32,8 +122,9 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 | Otro | Descripción |
 |------|-------------|
 | 🗂️ [Docs](https://github.com/Team-DAS/C4-Architecture) | Documentación técnica del sistema y de la arquitectura de células. |
-| ⚗️ Sandbox | Entorno de pruebas para nuevos módulos o ideas. |
+| 💎 [UI](https://www.figma.com/design/6m3CSKDoyHiY4cnmpgWg0m/UdeAJobs?node-id=4102-115205&t=GRYSz1yYmvUbi31t-1) | Diseños del Frontend del caso práctico |
 
 ---
+
 
 
