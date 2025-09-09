@@ -11,6 +11,9 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 <table>
   <thead>
     <tr>
+      <td colspan="2" align="center"><b>General</b></td>
+    </tr>
+    <tr>
       <td>🌐 <a href="https://github.com/Team-DAS/Frontend">Frontend</a></td>
       <td>Aplicación web para candidatos y empleadores.</td>
     </tr>
@@ -109,6 +112,9 @@ Cada célula es una instancia independiente que contiene los servicios necesario
       <td>...</td>
     </tr>
     <tr>
+      <td colspan="2" align="center"><b>Cell Router</b></td>
+    </tr>
+    <tr>
       <td>🧰 <a href="#">Cell Router</a></td>
       <td>Enrutamiento de tráfico externo hacia los microservicios de cada célula.</td>
     </tr>
@@ -125,6 +131,7 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 | 💎 [UI](https://www.figma.com/design/6m3CSKDoyHiY4cnmpgWg0m/UdeAJobs?node-id=4102-115205&t=GRYSz1yYmvUbi31t-1) | Diseños del Frontend del caso práctico |
 
 ---
+
 
 
 
