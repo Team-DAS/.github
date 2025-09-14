@@ -73,19 +73,19 @@ Cada célula es una instancia independiente que contiene los servicios necesario
       <th>Descripción</th>
     </tr>
     <tr>
-      <td>📋 <a href="#">Account Management Service</a></td>
+      <td>📋 <a href="https://github.com/Team-DAS/account-service">Account Management Service</a></td>
       <td>...</td>
     </tr>
     <tr>
-      <td>📋 <a href="#">Authentication Service</a></td>
+      <td>📋 <a href="https://github.com/Team-DAS/Authz-service">Authentication Service</a></td>
       <td>...</td>
     </tr>
     <tr>
-      <td>📋 <a href="#">Authorization Service</a></td>
+      <td>📋 <a href="https://github.com/Team-DAS/Authz-service">Authorization Service</a></td>
       <td>...</td>
     </tr>
     <tr>
-      <td>🧰 <a href="#">API Gateway</a></td>
+      <td>🧰 <a href="https://github.com/Team-DAS/Authz-service">API Gateway</a></td>
       <td>...</td>
     </tr>
     <tr>
@@ -131,6 +131,7 @@ Cada célula es una instancia independiente que contiene los servicios necesario
 | 💎 [UI](https://www.figma.com/design/6m3CSKDoyHiY4cnmpgWg0m/UdeAJobs?node-id=4102-115205&t=GRYSz1yYmvUbi31t-1) | Diseños del Frontend del caso práctico |
 
 ---
+
 
 
 
