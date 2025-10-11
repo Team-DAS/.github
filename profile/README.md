@@ -50,6 +50,13 @@ Cada **célula** agrupa los servicios necesarios para operar de manera autónoma
 
 ---
 
+### ⚙️ Infrastructure Cell
+| Proyecto | Descripción |
+|-----------|-------------|
+| [Infrastructure Cell (Monorepo)](https://github.com/Team-DAS/infrastructure-cell) | Célula encargada de la observabilidad, mensajería y monitoreo del ecosistema. Incluye:<br> • 📈 **Prometheus** – Recolección de métricas y monitoreo de servicios.<br> • 📊 **Grafana** – Visualización y paneles de control.<br> • 📜 **Loki** – Centralización y consulta de logs.<br> • 🐇 **RabbitMQ** – Sistema de mensajería para eventos entre células. |
+
+---
+
 ## 📚 Other
 
 | Proyecto | Descripción |
@@ -60,6 +67,7 @@ Cada **célula** agrupa los servicios necesarios para operar de manera autónoma
 ---
 
 > _“Cada célula es independiente, pero todas juntas conforman un ecosistema coherente: Freelancers Platform.”_
+
 
 
 
