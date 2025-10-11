@@ -15,6 +15,13 @@ Cada **célula** agrupa los servicios necesarios para operar de manera autónoma
 
 ---
 
+### 🧭 Cell Router
+| Proyecto | Descripción |
+|-----------|-------------|
+| [Cell Router](https://github.com/Team-DAS/cell-router) | Enrutamiento del tráfico externo hacia las diferentes células. |
+
+---
+
 ### 👤 Profile Management Cell
 | Proyecto | Descripción |
 |-----------|-------------|
@@ -43,13 +50,6 @@ Cada **célula** agrupa los servicios necesarios para operar de manera autónoma
 
 ---
 
-### 🧭 Cell Router
-| Proyecto | Descripción |
-|-----------|-------------|
-| [Cell Router](https://github.com/Team-DAS/cell-router) | Enrutamiento del tráfico externo hacia las diferentes células. |
-
----
-
 ### ⚙️ Infrastructure Cell
 | Proyecto | Descripción |
 |-----------|-------------|
@@ -67,6 +67,7 @@ Cada **célula** agrupa los servicios necesarios para operar de manera autónoma
 ---
 
 > _“Cada célula es independiente, pero todas juntas conforman un ecosistema coherente: Freelancers Platform.”_
+
 
 
 
