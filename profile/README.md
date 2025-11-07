@@ -66,7 +66,8 @@ Cada **célula** agrupa los servicios necesarios para operar de manera autónoma
 
 ---
 
-> _“Cada célula es independiente, pero todas juntas conforman un ecosistema coherente: Freelancers Platform.”_
+> _“Cada célula es independiente, pero todas juntas conforman un ecosistema coherente: UdeA Jobs.”_
+
 
 
 
